@@ -1,0 +1,6 @@
+@TodoApplikasjonAPIDelTo_HostAddress = http://localhost:5283
+
+GET {{TodoApplikasjonAPIDelTo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
